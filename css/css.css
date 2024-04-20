@@ -10,4 +10,7 @@ div.col-lg-4 img {
 	width: 100px;
 }
 
+.carousel-item img {
+	width: 100%;
+}
 
